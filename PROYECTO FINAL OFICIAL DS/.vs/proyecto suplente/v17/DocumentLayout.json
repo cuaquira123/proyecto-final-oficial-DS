@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmboletacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmboletacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|d:\\upds materias\\desarollo de sistemas i\\proyecto suplente\\proyecto suplente\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\reporte\\reporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\reporte\\reporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\reporte\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\reporte\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\reporte\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\reporte\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmboletacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmboletacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE11D96-61DE-447B-8F4D-EADA0D55EF2E}|proyecto suplente\\proyecto suplente.csproj|solutionrelative:proyecto suplente\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\Program.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Program.cs",
+              "RelativeToolTip": "proyecto suplente\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:11:36.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRegistro.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmRegistro.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmRegistro.cs",
+              "RelativeToolTip": "proyecto suplente\\frmRegistro.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAD4v7QAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T00:52:52.561Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmInicioSesion.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmInicioSesion.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmInicioSesion.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmInicioSesion.cs",
+              "RelativeToolTip": "proyecto suplente\\frmInicioSesion.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:41:13.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmInicioSesion.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmInicioSesion.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmInicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\frmInicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T22:46:43.079Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBoletacs.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmBoletacs.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmBoletacs.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmBoletacs.cs",
+              "RelativeToolTip": "proyecto suplente\\frmBoletacs.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T00:24:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReporte.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\frmReporte.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\Reporte\\frmReporte.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\frmReporte.cs",
+              "RelativeToolTip": "proyecto suplente\\Reporte\\frmReporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T00:00:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\frmReporte.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\Reporte\\frmReporte.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\frmReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\Reporte\\frmReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:52:45.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporte.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\Reporte.rdlc",
+              "RelativeDocumentMoniker": "proyecto suplente\\Reporte\\Reporte.rdlc",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\Reporte\\Reporte.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\Reporte\\Reporte.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-03-05T23:42:42.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmlogin.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmlogin.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs",
+              "RelativeToolTip": "proyecto suplente\\frmlogin.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:28:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmlogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmlogin.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmlogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\frmlogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:28:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBoletacs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmBoletacs.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmBoletacs.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmBoletacs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\frmBoletacs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:01:34.965Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmRegistro.cs",
+              "RelativeDocumentMoniker": "proyecto suplente\\frmRegistro.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\DESAROLLO DE SISTEMAS I\\proyecto suplente\\proyecto suplente\\frmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto suplente\\frmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T23:47:47.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

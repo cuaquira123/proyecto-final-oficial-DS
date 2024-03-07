@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Proyecto_final_DSDataSet1" targetNamespace="http://tempuri.org/Proyecto_final_DSDataSet1.xsd" xmlns:mstns="http://tempuri.org/Proyecto_final_DSDataSet1.xsd" xmlns="http://tempuri.org/Proyecto_final_DSDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Proyecto_final_DSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Proyecto_final_DSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.proyecto_suplente.Properties.Settings.GlobalReference.Default.Proyecto_final_DSConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_TICKET2TableAdapter" GeneratorDataComponentClassName="View_TICKET2TableAdapter" Name="View_TICKET2" UserDataComponentName="View_TICKET2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Proyecto_final_DSConnectionString (Settings)" DbObjectName="Proyecto_final_DS.dbo.View_TICKET2" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id_peaje1, id_Vehiculo, Placa, Marca, Modelo, Destino, FechaHora, Monto FROM dbo.View_TICKET2</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_peaje1" DataSetColumn="id_peaje1" />
+              <Mapping SourceColumn="id_Vehiculo" DataSetColumn="id_Vehiculo" />
+              <Mapping SourceColumn="Placa" DataSetColumn="Placa" />
+              <Mapping SourceColumn="Marca" DataSetColumn="Marca" />
+              <Mapping SourceColumn="Modelo" DataSetColumn="Modelo" />
+              <Mapping SourceColumn="Destino" DataSetColumn="Destino" />
+              <Mapping SourceColumn="FechaHora" DataSetColumn="FechaHora" />
+              <Mapping SourceColumn="Monto" DataSetColumn="Monto" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Proyecto_final_DSDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="Proyecto_final_DSDataSet1" msprop:Generator_DataSetName="Proyecto_final_DSDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_TICKET2" msprop:Generator_RowEvHandlerName="View_TICKET2RowChangeEventHandler" msprop:Generator_RowDeletedName="View_TICKET2RowDeleted" msprop:Generator_RowDeletingName="View_TICKET2RowDeleting" msprop:Generator_RowEvArgName="View_TICKET2RowChangeEvent" msprop:Generator_TablePropName="View_TICKET2" msprop:Generator_RowChangedName="View_TICKET2RowChanged" msprop:Generator_RowChangingName="View_TICKET2RowChanging" msprop:Generator_TableClassName="View_TICKET2DataTable" msprop:Generator_RowClassName="View_TICKET2Row" msprop:Generator_TableVarName="tableView_TICKET2" msprop:Generator_UserTableName="View_TICKET2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_peaje1" msprop:Generator_ColumnPropNameInRow="id_peaje1" msprop:Generator_ColumnPropNameInTable="id_peaje1Column" msprop:Generator_ColumnVarNameInTable="columnid_peaje1" msprop:Generator_UserColumnName="id_peaje1" type="xs:int" />
+              <xs:element name="id_Vehiculo" msprop:Generator_ColumnPropNameInRow="id_Vehiculo" msprop:Generator_ColumnPropNameInTable="id_VehiculoColumn" msprop:Generator_ColumnVarNameInTable="columnid_Vehiculo" msprop:Generator_UserColumnName="id_Vehiculo" type="xs:int" />
+              <xs:element name="Placa" msprop:Generator_ColumnPropNameInRow="Placa" msprop:Generator_ColumnPropNameInTable="PlacaColumn" msprop:Generator_ColumnVarNameInTable="columnPlaca" msprop:Generator_UserColumnName="Placa" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Marca" msprop:Generator_ColumnPropNameInRow="Marca" msprop:Generator_ColumnPropNameInTable="MarcaColumn" msprop:Generator_ColumnVarNameInTable="columnMarca" msprop:Generator_UserColumnName="Marca">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Modelo" msprop:Generator_ColumnPropNameInRow="Modelo" msprop:Generator_ColumnPropNameInTable="ModeloColumn" msprop:Generator_ColumnVarNameInTable="columnModelo" msprop:Generator_UserColumnName="Modelo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Destino" msprop:Generator_ColumnPropNameInRow="Destino" msprop:Generator_ColumnPropNameInTable="DestinoColumn" msprop:Generator_ColumnVarNameInTable="columnDestino" msprop:Generator_UserColumnName="Destino" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FechaHora" msprop:Generator_ColumnPropNameInRow="FechaHora" msprop:Generator_ColumnPropNameInTable="FechaHoraColumn" msprop:Generator_ColumnVarNameInTable="columnFechaHora" msprop:Generator_UserColumnName="FechaHora" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Monto" msprop:Generator_ColumnPropNameInRow="Monto" msprop:Generator_ColumnPropNameInTable="MontoColumn" msprop:Generator_ColumnVarNameInTable="columnMonto" msprop:Generator_UserColumnName="Monto" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_TICKET2" />
+      <xs:field xpath="mstns:id_peaje1" />
+      <xs:field xpath="mstns:id_Vehiculo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
